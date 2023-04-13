@@ -1,0 +1,5 @@
+C:\Users\XSlimeNB\Desktop\C#Project\MyCSharpProject\MyCSharpProject\bin\Release\net6.0-windows\publish\MyCSharpProject.exe
+C:\Users\XSlimeNB\Desktop\C#Project\MyCSharpProject\MyCSharpProject\bin\Release\net6.0-windows\publish\MyCSharpProject.dll
+C:\Users\XSlimeNB\Desktop\C#Project\MyCSharpProject\MyCSharpProject\bin\Release\net6.0-windows\publish\MyCSharpProject.deps.json
+C:\Users\XSlimeNB\Desktop\C#Project\MyCSharpProject\MyCSharpProject\bin\Release\net6.0-windows\publish\MyCSharpProject.runtimeconfig.json
+C:\Users\XSlimeNB\Desktop\C#Project\MyCSharpProject\MyCSharpProject\bin\Release\net6.0-windows\publish\MyCSharpProject.pdb

@@ -1,0 +1,2 @@
+C:\Users\XSlimeNB\Desktop\C#Project\MyCSharpProject\MyCSharpProject\bin\Release\net6.0-windows\publish\win-x64\MyCSharpProject.pdb
+C:\Users\XSlimeNB\Desktop\C#Project\MyCSharpProject\MyCSharpProject\bin\Release\net6.0-windows\publish\win-x64\MyCSharpProject.exe

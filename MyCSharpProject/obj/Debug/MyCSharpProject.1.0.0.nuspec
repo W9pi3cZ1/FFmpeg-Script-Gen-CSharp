@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyCSharpProject</id>
+    <version>1.0.0</version>
+    <authors>MyCSharpProject</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/icon/logo.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\XSlimeNB\Desktop\C#Project\MyCSharpProject\MyCSharpProject\bin\Debug\net6.0-windows\MyCSharpProject.runtimeconfig.json" target="lib\net6.0-windows7.0\MyCSharpProject.runtimeconfig.json" />
+    <file src="C:\Users\XSlimeNB\Desktop\C#Project\MyCSharpProject\MyCSharpProject\bin\Debug\net6.0-windows\MyCSharpProject.dll" target="lib\net6.0-windows7.0\MyCSharpProject.dll" />
+    <file src="C:\Users\XSlimeNB\Desktop\C#Project\MyCSharpProject\MyCSharpProject\icon\logo.ico" target="content\icon\logo.ico" />
+    <file src="C:\Users\XSlimeNB\Desktop\C#Project\MyCSharpProject\MyCSharpProject\icon\logo.ico" target="contentFiles\any\net6.0-windows7.0\icon\logo.ico" />
+  </files>
+</package>
